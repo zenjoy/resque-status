@@ -39,5 +39,5 @@ PLATFORMS
 DEPENDENCIES
   jeweler
   mocha (~> 0.9.8)
-  resque (~> 1.19)
+  resque (>= 1.19)
   shoulda (~> 2.10.2)
